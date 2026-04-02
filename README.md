@@ -51,7 +51,7 @@ After submitting the form, it automatically resets within 1 second and shows val
 ```
 ---
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,figma,photoshop,react" height="40" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,figma,photoshop,react,npm,nodejs,mysql" height="40" />
 
 
 Usage
