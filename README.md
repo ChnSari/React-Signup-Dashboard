@@ -13,7 +13,7 @@ Form validation is handled using Yup. The form collects the following user infor
 
 After submitting the form, it automatically resets within 1 second and shows validation errors in real-time.
 
-<img src="https://s1.ezgif.com/tmp/ezgif-1a65993420abf4bc.gif" height="40" />
+<img src="https://s1.ezgif.com/tmp/ezgif-1a65993420abf4bc.gif" height="140" />
 ---
 
 ## Features
