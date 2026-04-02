@@ -13,7 +13,7 @@ Form validation is handled using Yup. The form collects the following user infor
 
 After submitting the form, it automatically resets within 1 second and shows validation errors in real-time.
 
-![Sign Up Preview](./Gif/Signup.gif)
+<img src="./Gif/Signup.gif" alt="Animasyon" />
 ---
 
 ## Features
