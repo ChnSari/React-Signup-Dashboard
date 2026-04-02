@@ -1,7 +1,6 @@
 
 # REACT SIGNUP FORM 🌟
 
-## Proje Hakkında
 This project is a user registration form built with React and Formik.
 Form validation is handled using Yup. The form collects the following user information:
 - First Name
