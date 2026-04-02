@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+label{
+  display: block;
+}
+
+.error{
+  color: red;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  padding: 25px;
+  border: 1px solid  #ddd;
+  border-radius: 20px;
+  background-color: rgb(198, 198, 198)
+}
+
+button{
+  width: 150px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  align-self: center;
+  background-color:rgb(147, 147, 147);
+}
+
+button:hover{
+  background-color:rgb(110, 109, 109);
+}
+
+input{
+  border: none;
+  width: 50vh;
+  height: 25px;
+  align-self: center;
+  border-radius: 5px;
+}
+
+select{
+  border: none;
+  width: 20vh;
+  height: 25px;
+  align-self: center;
+  border-radius: 5px;
+}
